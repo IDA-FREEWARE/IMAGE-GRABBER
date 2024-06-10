@@ -2,8 +2,8 @@
 Introduction
 In the world of software, there is a constant need for tools that facilitate the analysis and development of applications. One such tool that can significantly simplify certain processes is IMAGE GRABBER, a program that allows users to convert EXE files into PNG images. This tool greatly aids in understanding and analyzing executable programs by transforming them into easily inspectable images.
 ---
-# What is IMAGE GRABBER?
-
+What is IMAGE GRABBER?
+-
 IMAGE GRABBER is a specialized program that can extract images from EXE files and convert them into PNG format. EXE files often contain icons and other graphical resources embedded within the executable file. This program enables users to extract these graphical resources, making it easier to analyze and understand the internal structure of executable applications.
 --
 The Importance of IMAGE GRABBER
